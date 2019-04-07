@@ -2,7 +2,7 @@
 
 #### 6、运算符
 
-![1554600884729](/home/javazhe/.config/Typora/typora-user-images/1554600884729.png)
+![1554600884729](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554600884729.png)
 
 #### 7、缩进
 

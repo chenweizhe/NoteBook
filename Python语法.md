@@ -2,7 +2,7 @@
 
 #### 1、输出
 
-![1554569340392](/home/javazhe/.config/Typora/typora-user-images/1554569340392.png)
+![1554569340392](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554569340392.png)
 
 #### 2、注释
 
@@ -10,7 +10,7 @@
 
 ​	2、三引号注释法​       	
 
-![1554569556154](/home/javazhe/.config/Typora/typora-user-images/1554569556154.png)
+![1554569556154](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554569556154.png)
 
 #### 3、标识符
 
@@ -21,27 +21,27 @@
 
 #### 4、变量
 
-![1554570006668](/home/javazhe/.config/Typora/typora-user-images/1554570006668.png)
+![1554570006668](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554570006668.png)
 
 #### 5、数据类型
 
-![1554570092424](/home/javazhe/.config/Typora/typora-user-images/1554570092424.png)
+![1554570092424](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554570092424.png)
 
 > 1、列表
 >
-> ![1554570755679](/home/javazhe/.config/Typora/typora-user-images/1554570755679.png)
+> ![1554570755679](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554570755679.png)
 >
 > 2、元组
 >
-> ![1554570893478](/home/javazhe/.config/Typora/typora-user-images/1554570893478.png)
+> ![1554570893478](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554570893478.png)
 >
 > 3、集合：集合元素是不能重复的
 >
-> ![1554571204126](/home/javazhe/.config/Typora/typora-user-images/1554571204126.png)
+> ![1554571204126](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554571204126.png)
 >
 > 4、字典
 >
-> ![1554571383096](/home/javazhe/.config/Typora/typora-user-images/1554571383096.png)
+> ![1554571383096](https://raw.githubusercontent.com/chenweizhe/NoteBook/master/pic/1554571383096.png)
 
 
 
